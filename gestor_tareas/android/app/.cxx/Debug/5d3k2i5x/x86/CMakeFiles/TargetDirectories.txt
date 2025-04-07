@@ -1,0 +1,2 @@
+C:/Users/Adal/Downloads/Flutter/gestor_tareas/android/app/.cxx/Debug/5d3k2i5x/x86/CMakeFiles/edit_cache.dir
+C:/Users/Adal/Downloads/Flutter/gestor_tareas/android/app/.cxx/Debug/5d3k2i5x/x86/CMakeFiles/rebuild_cache.dir

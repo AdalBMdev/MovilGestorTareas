@@ -1,0 +1,29 @@
+name: gestor_tareas
+description: Gestor de Tareas Colaborativo
+publish_to: 'none'
+
+environment:
+  sdk: '^3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.4.5
+  http: ^1.2.1
+  shared_preferences: ^2.2.2
+  intl: ^0.20.2
+  jwt_decode: ^0.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
