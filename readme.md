@@ -1,5 +1,3 @@
-¡Claro! Aquí tienes el `README.md` completo en un solo bloque, listo para copiar y pegar directamente en tu proyecto:
-
 ---
 
 ```md
