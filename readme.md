@@ -1,6 +1,4 @@
----
 
-```md
 # 🧠 Gestor de Tareas Colaborativo
 
 **Gestor de Tareas Colaborativo** es una aplicación móvil desarrollada con **Flutter** que permite a múltiples usuarios gestionar tareas de manera eficiente dentro de un equipo de trabajo. La app está respaldada por un backend en **Node.js + SQLite**, ofreciendo autenticación, persistencia de datos y comunicación con API RESTful.
